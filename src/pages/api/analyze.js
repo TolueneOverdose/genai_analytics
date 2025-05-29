@@ -66,7 +66,7 @@ You are a financial analyst. Based on the following bank statement text:
 - Highlight any unusual trends or large transactions
 - Suggest how the user can optimize their portfolio
 - Compare performance to general market trends (e.g., NIFTY/SENSEX)
-- Provide actionable tips for improvement
+- Provide actionable tips and ideas for improvement
 
 BANK STATEMENT TEXT:
 ${extractedText}
